@@ -1,0 +1,11 @@
+/node_modules
+/ts-defs
+.vscode
+/lib
+/site
+.sass-cache
+.publish
+/screenshots
+package-lock.json
+.npmrc
+.DS_Store
